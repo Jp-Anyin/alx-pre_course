@@ -1,2 +1,2 @@
-My first readme
+The world is mine
 ALX Trainning is sweet
